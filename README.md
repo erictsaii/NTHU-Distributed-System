@@ -4,6 +4,20 @@ The repository includes microservices for the NTHU Distributed System course lab
 
 Before going through the following parts, make sure your Docker is running since we are generating/testing/building code inside a Docker container to prevent dependencies from conflicting/missing on your host machine.
 
+## Screenshot
+
+![6](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/6dfbe08b-894f-47a8-9798-a46d3d35fb34)
+
+![1](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/89bda83c-bdbf-44fb-968b-3e6a9035c3bc)
+
+![2](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/b9497fd9-5244-45eb-b42b-11f6e0d60971)
+
+![3](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/39d26831-7b3d-413f-a0b2-7d95a4ea2f0c)
+
+![4](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/6f714a53-07f3-4c12-911a-471c09b0350e)
+
+![5](https://github.com/erictsaii/NTHU-Distributed-System/assets/86649653/a72a5865-ec3d-4b87-aef1-68f1126e6a2a)
+
 ## Features
 
 The video service serves APIs that accept uploading a video, listing videos, getting a video and deleting a video.
